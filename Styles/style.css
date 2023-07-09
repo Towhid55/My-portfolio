@@ -27,7 +27,7 @@ body{
    
 }
 
-.section-des{
+.section-description{
     color: #757575;
     text-align: center;
     font-size: 18px;
@@ -129,4 +129,12 @@ main{
 
 .about-info{
     text-align: center;
+}
+
+/* what I do */
+
+#what-i-do-description{
+    padding: 30px 150px;
+    /* margin: 0 150px; */
+    
 }
